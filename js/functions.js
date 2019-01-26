@@ -1,4 +1,4 @@
-function helloWorld(num1, num2) {
+function sumTwoNumbers(num1, num2) {
 	return num1 + num2;
 }
-module.exports=helloWorld;
+module.exports=sumTwoNumbers;

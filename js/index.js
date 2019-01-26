@@ -1,6 +1,6 @@
 
 function displayResult() {
-	document.getElementById("res").innerHTML = helloWorld(2,2);
+	document.getElementById("res").innerHTML = sumTwoNumbers(2,2);
 }
 
 displayResult();
