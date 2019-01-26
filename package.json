@@ -1,0 +1,25 @@
+{
+  "name": "sprint-0-sq19-shuler18",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "jest": "^24.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+	"start": "node ./js/server.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/upcs/sprint-0-sq19-shuler18.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/upcs/sprint-0-sq19-shuler18/issues"
+  },
+  "homepage": "https://github.com/upcs/sprint-0-sq19-shuler18#readme"
+}
+
